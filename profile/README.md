@@ -14,8 +14,8 @@
 
 <br><br>
 
-<a href="https://arkspace.me">arkspace.me</a> · 
-<a href="https://mindtransfer.me">mindtransfer.me</a> · 
+<a href="https://arkspace.me">arkspace.me</a>  ·  
+<a href="https://mindtransfer.me">mindtransfer.me</a>  ·  
 <a href="https://theconsiousness.ai/core">theconsiousness.ai/core</a>
 
 </div>

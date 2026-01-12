@@ -50,7 +50,7 @@ Three interconnected layers. One unified goal.
 ### 🛰️ Infrastructure
 **[arkspace-core](https://github.com/Zae-Project/arkspace-core)**
 
-Satellite constellation with neuromorphic processors. Your mind, running at the speed of light between orbital nodes.
+Satellite constellation with neuromorphic processors. Your mind, running, potentially at nearly speed of light between orbital nodes (satellites).
 
 *LEO satellites • OISL links • <50ms latency*
 
@@ -60,7 +60,7 @@ Satellite constellation with neuromorphic processors. Your mind, running at the 
 ### 🧠 Interface  
 **[brain-emulation](https://github.com/Zae-Project/brain-emulation)**
 
-The bridge between biological and synthetic. A corpus callosum interface that reads and writes neural activity.
+The bridge between biological and synthetic. A corpus callosum interface that reads and writes neural activity. Work inspired specially by Pr. Masataka Watanabe.
 
 *CMOS arrays • Spike encoding • Bidirectional*
 
@@ -70,7 +70,7 @@ The bridge between biological and synthetic. A corpus callosum interface that re
 ### ⚡ Engine
 **[neutral-consciousness-engine](https://github.com/Zae-Project/neutral-consciousness-engine)**
 
-The synthetic hemisphere. Spiking neural networks that can integrate with biological tissue.
+The synthetic "hemisphere". Spiking neural networks that can integrate with biological tissue.
 
 *100M neurons • Real time SNN • Neural firewall*
 

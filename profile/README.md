@@ -11,13 +11,14 @@
 <img src="https://img.shields.io/badge/status-research-camel?style=for-the-badge&labelColor=1a1a1a&color=c4a574" alt="Status: Research"/>
 <img src="https://img.shields.io/badge/open-source-grey?style=for-the-badge&labelColor=1a1a1a&color=8b7355" alt="Open Source"/>
 <img src="https://img.shields.io/badge/license-MIT-brown?style=for-the-badge&labelColor=1a1a1a&color=6b5344" alt="License: MIT"/>
-<br>
+
+<br><br>
+
 <a href="https://arkspace.me">arkspace.me</a> · 
 <a href="https://mindtransfer.me">mindtransfer.me</a> · 
 <a href="https://theconsiousness.ai/core">theconsiousness.ai/core</a>
 
 </div>
-<br>
 ---
 
 <br>

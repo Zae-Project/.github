@@ -27,7 +27,7 @@
 
 <div align="center">
 
-We're building the infrastructure for **consciousness substrate transfer**. A system that could one day allow the mind to seamlessly transition from biological to synthetic hardware.
+Building the infrastructure for **consciousness substrate transfer**. A system that could one day allow the mind to migrate from biological to synthetic hardware and remote space expansion.
 
 Not a copy. A continuation.
 

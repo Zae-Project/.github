@@ -18,7 +18,7 @@
 
 <div align="center">
 
-We're building the infrastructure for **consciousness substrate transfer** — a system that could one day allow the mind to seamlessly transition from biological to synthetic hardware.
+We're building the infrastructure for **consciousness substrate transfer**. A system that could one day allow the mind to seamlessly transition from biological to synthetic hardware.
 
 Not a copy. A continuation.
 
@@ -63,7 +63,7 @@ The bridge between biological and synthetic. A corpus callosum interface that re
 
 The synthetic hemisphere. Spiking neural networks that can integrate with biological tissue.
 
-*100M neurons • Real-time SNN • Neural firewall*
+*100M neurons • Real time SNN • Neural firewall*
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ The key insight: consciousness doesn't need to be *copied* — it can *flow* int
 
 ## Current State
 
-This is early-stage research. We're solving hard problems:
+This is early stage research. We're solving hard problems:
 
 | Challenge | Status |
 |-----------|--------|

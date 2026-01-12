@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/open-source-grey?style=for-the-badge&labelColor=1a1a1a&color=8b7355" alt="Open Source"/>
 <img src="https://img.shields.io/badge/license-MIT-brown?style=for-the-badge&labelColor=1a1a1a&color=6b5344" alt="License: MIT"/>
 
+<a href="https://arkspace.me">arkspace.me</a> · 
+<a href="https://mindtransfer.me">mindtransfer.me</a> · 
+<a href="https://theconsiousness.ai/core">theconsiousness.ai/core</a>
+
 </div>
 
 ---
@@ -132,10 +136,8 @@ That's why this is public.
 
 <br>
 
-<sub>
 <a href="https://arkspace.me">arkspace.me</a> · 
 <a href="https://mindtransfer.me">mindtransfer.me</a> · 
 <a href="https://theconsiousness.ai/core">theconsiousness.ai/core</a>
-</sub>
 
 </div>

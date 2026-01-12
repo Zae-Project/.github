@@ -4,6 +4,8 @@
 
 ### *What if consciousness could exist beyond the brain?*
 
+<img width="3584" height="1184" alt="zae_project_banner" src="https://github.com/user-attachments/assets/a706d1b3-8f64-44be-8acc-5e8fdde53fce" />
+
 <br>
 
 <img src="https://img.shields.io/badge/status-research-camel?style=for-the-badge&labelColor=1a1a1a&color=c4a574" alt="Status: Research"/>

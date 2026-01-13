@@ -95,7 +95,7 @@ Biological Brain                     Synthetic Substrate
       └──────────── Unified Mind ────────────┘
 ```
 
-The key insight: consciousness doesn't need to be *copied* — it can *flow* into a new substrate while maintaining continuity, similar to how the brain's hemispheres work together through the corpus callosum.
+The key insight: consciousness doesn't need to be *copied*. It can *flow* into a new substrate while maintaining continuity, similar to how the brain's hemispheres work together through the corpus callosum.
 
 <br>
 
@@ -120,7 +120,7 @@ This is early stage research. We're solving hard problems:
 
 All architecture, protocols, and specifications:
 
-**[zae-docs](https://github.com/Zae-Project/zae-docs)** — Unified technical documentation
+**[zae-docs](https://github.com/Zae-Project/zae-docs)**. Unified technical documentation
 
 <br>
 

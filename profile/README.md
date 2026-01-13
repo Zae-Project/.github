@@ -138,6 +138,6 @@ That's why this is public.
 
 <a href="https://arkspace.me">arkspace.me</a> · 
 <a href="https://mindtransfer.me">mindtransfer.me</a> · 
-<a href="https://theconsiousness.ai/core">theconsiousness.ai/core</a>
+<a href="https://theconsciousness.ai/core">theconsciousness.ai/core</a>
 
 </div>

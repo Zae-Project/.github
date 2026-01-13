@@ -20,8 +20,7 @@
 
 </div>
 
-
----
+<img width="2617" height="1449" alt="zae-project-infographic" src="https://github.com/user-attachments/assets/cbde2e6c-3629-4b6e-b702-bbef5c6756cf" />
 
 <br>
 

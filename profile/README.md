@@ -16,7 +16,8 @@
 
 <a href="https://arkspace.me">arkspace.me</a> · 
 <a href="https://mindtransfer.me">mindtransfer.me</a> · 
-<a href="https://theconsciousness.ai/core">theconsciousness.ai/core</a>
+<a href="https://theconsciousness.ai/core">theconsciousness.ai/core</a> · 
+<a href="https://github.com/Zae-Project/thermodynamic-core">thermodynamic-core</a>
 
 </div>
 
@@ -36,13 +37,13 @@ Not a copy. A continuation.
 
 ## The Vision
 
-Three interconnected layers. One unified goal.
+Four interconnected layers. One unified goal.
 
 <br>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛰️ Infrastructure
 **[arkspace-core](https://github.com/Zae-Project/arkspace-core)**
@@ -52,7 +53,7 @@ Satellite constellation with neuromorphic processors. Your mind, running, potent
 *LEO satellites • OISL links • <50ms latency*
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 Interface  
 **[brain-emulation](https://github.com/Zae-Project/brain-emulation)**
@@ -62,7 +63,9 @@ The bridge between biological and synthetic. A corpus callosum interface that re
 *CMOS arrays • Spike encoding • Bidirectional*
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Engine
 **[neutral-consciousness-engine](https://github.com/Zae-Project/neutral-consciousness-engine)**
@@ -70,6 +73,16 @@ The bridge between biological and synthetic. A corpus callosum interface that re
 The synthetic "hemisphere". Spiking neural networks that can integrate with biological tissue.
 
 *100M neurons • Real time SNN • Neural firewall*
+
+</td>
+<td width="50%" valign="top">
+
+### 🌡️ Substrate
+**[thermodynamic-core](https://github.com/Zae-Project/thermodynamic-core)**
+
+The physical computing paradigm. Computation by thermal relaxation — 9 orders of magnitude more efficient than digital CMOS, closing the gap to the brain's own energy budget.
+
+*p-bits • Langevin dynamics • $k_BT$ efficiency*
 
 </td>
 </tr>
@@ -108,6 +121,7 @@ This is early stage research. We're solving hard problems:
 | Neural bandwidth | 🔬 Research (8-9 orders of magnitude gap) |
 | CNS regeneration | 🔬 Research (unsolved) |
 | Security | 📐 Designed (Neural Firewall) |
+| Energy efficiency | 🔬 Research (thermodynamic computing — 9 orders of magnitude gap to $k_BT$) |
 
 <br>
 
@@ -138,6 +152,7 @@ That's why this is public.
 
 <a href="https://arkspace.me">arkspace.me</a> · 
 <a href="https://mindtransfer.me">mindtransfer.me</a> · 
-<a href="https://theconsciousness.ai/core">theconsciousness.ai/core</a>
+<a href="https://theconsciousness.ai/core">theconsciousness.ai/core</a> · 
+<a href="https://github.com/Zae-Project/thermodynamic-core">thermodynamic-core</a>
 
 </div>

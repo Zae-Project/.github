@@ -1,10 +1,9 @@
-<div align="center">
-
 # ZAE PROJECT
 
 ### *What if consciousness could exist beyond the brain?*
 
-<img width="3584" height="1184" alt="zae_project_banner" src="https://github.com/user-attachments/assets/a706d1b3-8f64-44be-8acc-5e8fdde53fce" />
+<img width="1376" height="768" alt="1000090269" src="https://github.com/user-attachments/assets/e0636320-23fd-431d-86ac-db7b32c946de" />
+<div align="center">
 
 <br>
 
